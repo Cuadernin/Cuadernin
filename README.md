@@ -1,6 +1,6 @@
 # Hi✌👀
 
-### 📚 My latest projects
+### 📚 Some projects
 - [BotESFM](https://github.com/Cuadernin/BotESFM) - Bot de telegram
 - [GUI with Qt](https://github.com/Cuadernin/GUIQT) - Futurist template gui
 - [SQL GUI](https://github.com/Cuadernin/MiniGestorSQL) - Mini database manager that performs different operations.
