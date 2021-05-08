@@ -6,9 +6,6 @@
 - [SQL GUI](https://github.com/Cuadernin/MiniGestorSQL) - Mini database manager that performs different operations.
 - [API usage example](https://github.com/Cuadernin/ApiSQL) - Use of API and interactive graphics.
 
-### 📰 My recent blog posts
-- Soon
-
 ### 💬 Feedback
 
 Say hello, i don't bite!😅
