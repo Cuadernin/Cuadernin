@@ -1,11 +1,11 @@
 # Hi✌👀
 
 ### 📚 My best projects
-- [BotESFM](https://github.com/Cuadernin/BotESFM) - Bot NO oficial de ESFM de telegram.
-- [PandasGUI](https://github.com/Cuadernin/ResumenDataFrame) - Interfaz gráfica para hacer un breve análisis de datos.
-- [Incidencia delictiva 2015 - 2020](https://github.com/Cuadernin/Datos_violencia_Mexico) - Limpieza de datos del SESNSP y proyectos usándolos.
+- [Bot de ESFM](https://github.com/Cuadernin/BotESFM) - Bot NO oficial de ESFM de telegram.
+- [Análisis de datos ](https://github.com/Cuadernin/coffeeAnalysis) - Documento generado para la 3° etapa de la certificación de DataCamp.
+- [GUI para análisis exploratorio](https://github.com/Cuadernin/ResumenDataFrame) - Interfaz gráfica para hacer un breve análisis de datos.
 - [SQL GUI](https://github.com/Cuadernin/MiniGestorSQL) - Interfaz gráfica para realizar operaciones CRUD en MYSQL.
-- [Tracking](https://github.com/Cuadernin/Tracking) - Tracking a una categoría completa de productos de cualquier tienda.
+- [Tracking (Webscrapping)](https://github.com/Cuadernin/Tracking) - Tracking a una categoría completa de productos de cualquier tienda.
 
 ### 💬 Feedback
 
