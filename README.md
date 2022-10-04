@@ -10,16 +10,16 @@
 <h2>Maybe it will help you<img src="https://media.giphy.com/media/GlRNX9BgyA261ESJf7/giphy.gif" height="38" width="38"></h2>
 
 <a href="https://github.com/Cuadernin/pandas_exercises">
-  <img style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Cuadernin&repo=pandas_exercises&theme=dracula" />
+  <img style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Cuadernin&repo=pandas_exercises&theme=radical"(https://github.com/Cuadernin/pandas_exercises) />
 </a>
 <a href=https://github.com/Cuadernin/GUI_IN_R>
-  <img style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Cuadernin&repo=GUI_IN_R&theme=dracula" />
+  <img style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Cuadernin&repo=GUI_IN_R&theme=dracula"(https://github.com/Cuadernin/GUI_IN_R) />
 </a>
 <a href=https://github.com/Cuadernin/scipy2017-jupyter-widgets-tutorial>
-  <img style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Cuadernin&repo=scipy2017-jupyter-widgets-tutorial&theme=dracula" />
+  <img style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Cuadernin&repo=scipy2017-jupyter-widgets-tutorial&theme=tokyonight"(https://github.com/Cuadernin/scipy2017-jupyter-widgets-tutorial)/>
 </a>
 <a href=https://github.com/Cuadernin/awesome-python-data-science>
-  <img style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Cuadernin&repo=awesome-python-data-science&theme=dracula" />
+  <img style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Cuadernin&repo=awesome-python-data-science&theme=synthwave"(https://github.com/Cuadernin/awesome-python-data-science)/>
 </a>
 
 <h2>Feedback<img src="https://media.giphy.com/media/fYBttYPejVFv1tcJbz/giphy.gif" heigth="35" width="35"></h2>
