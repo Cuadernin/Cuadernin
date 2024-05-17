@@ -3,9 +3,10 @@
 <h2>My best projects<img src="https://media.giphy.com/media/OSbc2NNx48yyDkxbrm/giphy.gif" height="35" width="35"></h2>
 
 - [Bot de ESFM ](https://github.com/Cuadernin/BotESFM) - Bot NO oficial de ESFM de telegram.
-- [Clasificación de correos y teléfonos](https://github.com/Cuadernin/class_tel_email) - Algoritmo que contiene diferentes procesos que clasifican correos y teléfonos por medio de niveles previamente identificados.
+- [Clasificación de correos y teléfonos](https://github.com/Cuadernin/class_tel_email) - Algoritmo que clasifican correos y teléfonos por medio de niveles previamente identificados.
 - [GUI para análisis exploratorio](https://github.com/Cuadernin/ResumenDataFrame) - Interfaz gráfica para hacer un breve análisis de datos.
 - [Tracking (Webscrapping)](https://github.com/Cuadernin/Tracking) - Tracking a una categoría completa de productos de cualquier tienda.
+- [Optimización de grandes datos](https://github.com/Cuadernin/OptDataPython) - Guía para optimizar la lectura de millones de registros usando `Pandas`
 
 <h2>Maybe it will help you<img src="https://media.giphy.com/media/GlRNX9BgyA261ESJf7/giphy.gif" height="38" width="38"></h2>
 
