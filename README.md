@@ -5,9 +5,10 @@ Recuerda, Google y las expresiones regulares son tu mejor amigo cuando de limpie
 <h2>Mis mejores proyectos <img src="https://media.giphy.com/media/OSbc2NNx48yyDkxbrm/giphy.gif" height="35" width="35"></h2>
 
 - [Bot de ESFM ](https://github.com/Cuadernin/BotESFM) - Bot NO oficial de ESFM de telegram.
-- [Clasificación de correos y teléfonos](https://github.com/Cuadernin/class_tel_email) - Algoritmo que clasifica correos y teléfonos usando determinadas condiciones.
-- [GUI para análisis exploratorio](https://github.com/Cuadernin/ResumenDataFrame) - Interfaz gráfica para hacer un breve análisis de datos.
-- [Optimización de grandes datos](https://github.com/Cuadernin/OptDataPython) - Guía para optimizar la lectura de millones de registros usando `Pandas`
+- [Clasificación de correos y teléfonos](https://github.com/Cuadernin/class_tel_email) - Algoritmo que clasifica correos y teléfonos usando determinadas condiciones
+- [GUI para análisis exploratorio](https://github.com/Cuadernin/ResumenDataFrame) - Interfaz gráfica para hacer un breve análisis de datos
+- [Optimización de grandes datos](https://github.com/Cuadernin/OptDataPython) - Guía sencilla para optimizar la lectura de millones de registros usando `Pandas`
+- [Importancia de las expresiones regulares](https://github.com/Cuadernin/Regex_Importance/tree/main) - Simple ensayo hablando sobre expresiones regulares
 
 <h2>Podría ayudarte <img src="https://media.giphy.com/media/GlRNX9BgyA261ESJf7/giphy.gif" height="38" width="38"></h2>
 
